@@ -12,7 +12,7 @@
 *
 * Origin API Class: https://github.com/Exeu/Amazon-ECS-PHP-Library
 * 
-* Location: http://github.com/iamfiscus/CodeIgniter-Amazon-ECS/
+* Location: http://github.com/iamfiscus/Codeigniter-Amazon-ECS/
 *          
 * Created:  06.20.2010 
 * 
